@@ -1,6 +1,6 @@
 cask "skeezo" do
-  version "0.1.8"
-  sha256 "261791ac5cea6d2f4cba95c68e9da6e793ff6a1e788b1b58ae467e993c774105"
+  version "0.1.9"
+  sha256 "9d1eee85c0811558923012bca9f9a8feab14a92ea3344c427406cd6c96fc5b54"
 
   url "https://dl.skeezo.dev/releases/#{version}/Skeezo.dmg",
       verified: "dl.skeezo.dev/"
